@@ -1,0 +1,9 @@
+path: C:/Users/ASUS/Desktop/G308/G3082026/zyzf/Q5/data
+train: train
+val: valid
+test: test
+# 类别名称
+names:
+  0: redball
+  1: blueball
+  2: box

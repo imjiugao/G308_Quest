@@ -1,0 +1,8 @@
+prefix=/home/ubus/ROS/robocon2025_ws/install
+
+Name: my_communication
+Description: Description of my_communication
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

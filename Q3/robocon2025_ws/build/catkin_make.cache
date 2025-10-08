@@ -1,0 +1,2 @@
+my_communication
+-DCATKIN_DEVEL_PREFIX=/home/ubus/ROS/robocon2025_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubus/ROS/robocon2025_ws/install -G Unix Makefiles
